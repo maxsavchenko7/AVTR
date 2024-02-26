@@ -121,7 +121,7 @@ section {
 .header__content {
     position: relative;
     background-image: url('../images/header-bg.png');
-    min-height: calc(100vh - 115px);
+    min-height: calc(100vh - 100px);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
